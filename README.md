@@ -1,5 +1,5 @@
-👋 Hi, I’m Laavaniya-G
-👀 I’m interested in Web development 
+- 👋 Hi, I’m Laavaniya-G
+- 👀 I’m interested in Web development 
 
 <!---
 Laavaniya-G/Laavaniya-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
