@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manikandansns&show_icons=true&locale=en&layout=compact" alt="Laavaniya-G" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Laavaniya-G&show_icons=true&locale=en" alt="Laavaniya-G" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manikandansns&show_icons=true&locale=en" alt="Laavaniya-G" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manikandansns&" alt="Laavaniya-G" /></p>
